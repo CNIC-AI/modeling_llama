@@ -1,0 +1,5 @@
+*.model
+*.sh
+
+/logs
+/tmp
